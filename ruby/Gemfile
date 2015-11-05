@@ -1,0 +1,6 @@
+source "http://rubygems.org"
+
+gem 'httpclient' 
+gem 'mechanize'
+gem 'capybara'
+gem 'selenium-webdriver'
